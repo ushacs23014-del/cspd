@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard: Scam Detection System",
+  "description": "An AI-powered platform to detect and alert users about cyber scams, phishing, and fraudulent patterns using Gemini AI.",
+  "requestFramePermissions": []
+}
